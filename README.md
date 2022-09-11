@@ -1,10 +1,9 @@
 Proyek Desain Game
+
 Infomatika
+
 Universitas Kristen Petra
 
-Anggota Kelompok
-ANDREAS HARIYANTO - C14190198
-OLVIN YAURI - C14190200
-VINCENTIUS S. F. - C14190150
-MICHAEL JS - C14190206
-HANSEL R W - C14190154
+"HORROR GAME"
+
+
