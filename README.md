@@ -4,6 +4,8 @@ Infomatika
 
 Universitas Kristen Petra
 
-"HORROR GAME"
+"SATAN SLAVE"
+
+
 
 
