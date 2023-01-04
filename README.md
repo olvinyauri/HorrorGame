@@ -5,7 +5,7 @@ Informatika - Universitas Kristen Petra </br>
 "SATAN SLAVE" </br>
  
 Teaser </br>
-https://www.youtube.com/watch?v=GIuhiABOag4&t=61s </br>
+https://youtu.be/eQkrXFEynPk </br>
 
 - ANDREAS HARIYANTO - C14190198 </br>
 - OLVIN YAURI - C14190200 </br>
