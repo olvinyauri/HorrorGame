@@ -3,6 +3,8 @@ Proyek Desain Game + Pemgrograman Game </br>
 Informatika - Universitas Kristen Petra </br>
 
 "SATAN SLAVE" </br>
+ Link file video teaser </br>
+ https://drive.google.com/file/d/1TyvvigD8VHLkcQil59w3YmIlNJESkUne/view?usp=share_link </br>
  
 Teaser </br>
 https://youtu.be/eQkrXFEynPk </br>
