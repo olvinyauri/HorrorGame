@@ -1,12 +1,11 @@
-Proyek Desain Game
+Proyek Desain Game + Pemgrograman Game </br>
 
-Infomatika
+Informatika - Universitas Kristen Petra </br>
 
-Universitas Kristen Petra
-
-"SATAN SLAVE"
-
-https://www.youtube.com/watch?v=GIuhiABOag4&t=61s
+"SATAN SLAVE" </br>
+ 
+Teaser </br>
+https://www.youtube.com/watch?v=GIuhiABOag4&t=61s </br>
 
 - ANDREAS HARIYANTO - C14190198 </br>
 - OLVIN YAURI - C14190200 </br>
