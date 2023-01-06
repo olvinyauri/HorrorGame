@@ -1,4 +1,4 @@
-Proyek Desain Game + Pemgrograman Game </br>
+Proyek Desain Game + Pemrograman Game </br>
 
 Informatika - Universitas Kristen Petra </br>
 
